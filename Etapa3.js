@@ -1,6 +1,6 @@
 // Importa o módulo MongoClient do pacote 'mongodb' e o objeto ObjectId
-var MongoClient = require('mongodb').MongoClient;
-const { ObjectId } = require('mongodb');
+import { MongoClient } from 'mongodb';
+import { ObjectId } from 'mongodb';
 
 // Define a URL de conexão com o MongoDB e o nome do banco de dados
 let MONGODB_URL = 'mongodb+srv://testeAprova:teste123@cluster0.u2gxf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';

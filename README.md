@@ -3,9 +3,17 @@
 O exercício simulará o levantamento de dados de processos de licenciamento existente no sistema Aprova Digital.
 
 O exercício será dividido em várias partes simulando a evolução de uma demanda corriqueira do setor de levantamento de dados, aumentando a complexidade para cada parte.
-Ao resolver uma parte salve um arquivo com a estrutura Parte`X`.js antes de começar a proxima parte.
 
 Cada etapa do exercício pode ser construída a partir da anterior por exemplo ao terminar a etapa 3 o começo da etapa 4 parte de onde a 3 começou então basta tirar uma copia da ultima solução para usar como ponto de partida.
+
+Para iniciar o teste, você deverá criar um <b>repositório privado</b> a partir do template deste repositório.
+
+Ao concluir o teste, dê permissão de visualização para os seguintes usuários:
+
+- <b>aalevictor</b>
+- <b>FelipeNavarroPimenta</b>
+
+O prazo para conclusão do exercício é de 1 semana.
 
 ## Etapa 1
 
