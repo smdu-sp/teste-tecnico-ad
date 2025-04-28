@@ -13,7 +13,7 @@ Ao concluir o teste, dê permissão de visualização para os seguintes usuário
 - <b>aalevictor</b>
 - <b>FelipeNavarroPimenta</b>
 
-O prazo para conclusão do exercício é de 1 semana.
+O prazo para conclusão do exercício é até 02/05/2025.
 
 ## Etapa 1
 
